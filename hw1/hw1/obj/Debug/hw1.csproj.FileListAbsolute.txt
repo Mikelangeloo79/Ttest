@@ -1,7 +1,0 @@
-E:\provereni\01. obuchenie\IT STEP\C#\HomeWork\2018.02.18\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
-E:\provereni\01. obuchenie\IT STEP\C#\HomeWork\2018.02.18\hw1\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache
-E:\provereni\01. obuchenie\IT STEP\C#\HomeWork\2018.02.18\hw1\hw1\bin\Debug\hw1.exe.config
-E:\provereni\01. obuchenie\IT STEP\C#\HomeWork\2018.02.18\hw1\hw1\bin\Debug\hw1.exe
-E:\provereni\01. obuchenie\IT STEP\C#\HomeWork\2018.02.18\hw1\hw1\bin\Debug\hw1.pdb
-E:\provereni\01. obuchenie\IT STEP\C#\HomeWork\2018.02.18\hw1\hw1\obj\Debug\hw1.exe
-E:\provereni\01. obuchenie\IT STEP\C#\HomeWork\2018.02.18\hw1\hw1\obj\Debug\hw1.pdb
